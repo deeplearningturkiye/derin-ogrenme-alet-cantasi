@@ -1,1 +1,1 @@
-Bu klasörde yer alan 
+Bu klasörde çeşitli sıkıştırma araçları yer almaktadır. 
